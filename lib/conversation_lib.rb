@@ -1,0 +1,3 @@
+module ConversationLib
+  # Your code goes here...
+end
